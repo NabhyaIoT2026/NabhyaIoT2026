@@ -76,12 +76,12 @@
 ## 📊 GitHub Performance (Dark / Light Auto)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashrajput4235&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajput4235&theme=github-dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nabhyaiot2026&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabhyaiot2026&theme=github-dark" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajput4235&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabhyaiot2026&layout=compact&theme=github_dark" />
 </p>
 
 ---
