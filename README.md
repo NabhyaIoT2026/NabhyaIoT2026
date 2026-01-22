@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Nabhya Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full+Stack+Developer;MERN+%7C+MEN+Stack+Specialist;React+%7C+Node.js+%7C+MongoDB+%7C+PostgreSQL;JWT+%7C+OAuth+%7C+Secure+Authentication;Data+Structures+%26+Algorithms;Building+Scalable+Systems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full+Stack+Developer;MERN+%7C;React+%7C+Node.js+%7C+MongoDB+%7C+PostgreSQL;JWT+%7C+OAuth+%7C+Secure+Authentication;Data+Structures+%26+Algorithms;Building+Scalable+Systems+🚀" />
 </p>
 
 ---
@@ -82,14 +82,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabhyaiot2026&layout=compact&theme=github_dark" />
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://github.com/nabhyaiot2026/nabhyaiot2026/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
