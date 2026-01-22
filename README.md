@@ -89,7 +89,7 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://github.com/NabhyaIoT2026/NabhyaIoT2026/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/nabhyaiot2026/nabhyaiot2026/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
